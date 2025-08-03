@@ -19,7 +19,7 @@ This project is my submission for **Task-2** of the **ApexPlanet Web Development
 
 ## 🔗 Useful Links
 
-- 🔗 [LinkedIn Video Demo](https://www.linkedin.com/your-task-2-link)
+- 🔗 https://www.linkedin.com/posts/lakshmi-kalyani-rasamsetti-404920316_webdevelopment-html-css-activity-7357749204020023296-EPeW?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAFA58EQB57jB3kXyZhFizvrJ6xHXHu1_MQ4&utm_campaign=share_via
 
 ## 🙏 Acknowledgments
 Thanks to **@ApexPlanet Software Pvt. Ltd.** for this amazing opportunity and guidance.
